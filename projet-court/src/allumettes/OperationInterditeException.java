@@ -1,7 +1,0 @@
-package allumettes;
-
-public class OperationInterditeException extends Exception {
-    public OperationInterditeException(String message) {
-        super(message);
-    }
-}
