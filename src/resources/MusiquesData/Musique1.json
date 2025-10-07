@@ -1,9 +1,0 @@
-{
-    "title": "Musique1",
-    "bpm": 120,
-    "notes": [
-        {"start": 0.0, "duration": 1.0, "frequency": 440.0},
-        {"start": 1.0, "duration": 5.0, "frequency": 523.0},
-        {"start": 6.0, "duration": 3.0, "frequency": 440.0}
-    ]
-}
